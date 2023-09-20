@@ -7,8 +7,7 @@ BabyChat is an app that teaches parents some Baby Sign Language (BSL) signs. BSL
 ## Media
 [Video Demonstration]([url](https://youtu.be/PsIhGW77i5U?si=pl5CxwYI8jV5kztl)https://youtu.be/PsIhGW77i5U?si=pl5CxwYI8jV5kztl)
 
+<img width="320" alt="Screenshot 2023-07-14 at 03 03 09" src="https://github.com/sofiadinizms/WWDC23/assets/65901952/51b67513-beb2-4b27-a725-54020f96c671">
 
-![Simulator Screenshot - iPad (10th generation) - 2023-07-14 at 02 41 46](https://github.com/sofiadinizms/WWDC23/assets/65901952/18e5d89a-0cba-40a7-870b-a6a8853167ee)
-![Simulator Screenshot - iPad (10th generation) - 2023-07-14 at 02 41 52](https://github.com/sofiadinizms/WWDC23/assets/65901952/cba43dff-0dbc-4b8d-8abc-818992c9eda6)
-![Simulator Screenshot - iPad (10th generation) - 2023-07-14 at 02 43 01](https://github.com/sofiadinizms/WWDC23/assets/65901952/e64e46a3-4e1b-47b6-9ecf-ee949fbed0da)
-<img width="1440" alt="Screenshot 2023-07-14 at 03 03 09" src="https://github.com/sofiadinizms/WWDC23/assets/65901952/342f6b8f-aacb-4932-9b7d-f86f6011c405">
+![Simulator Screenshot - iPad (10th generation) - 2023-07-14 at 02 41 46](https://github.com/sofiadinizms/WWDC23/assets/65901952/4041c5ef-c20c-42fd-ab6a-c689f533ebe7)
+
